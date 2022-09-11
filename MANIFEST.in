@@ -1,0 +1,6 @@
+graft src
+include README.rst
+include LICENSE
+include src/gevt_timing/VERSION
+recursive-include src/gevt_timing *.png *.ico
+recursive-exclude src/gevt_timing *.pyc

@@ -1,0 +1,43 @@
+
+Édition
+=======
+
+
+.. contents::
+   :depth: 1
+   :local:
+   :backlinks: none
+
+.. highlight:: console
+
+
+Edition manuelle
+----------------
+
+Pour remplir l'une ou l'autre des tables il suffit de positionner la souris dessus et de
+faire un clic droit. Un menu contextuel apparait alors, tel que visible
+sur la :numref:`figure_edit_volunteers` et sur la :numref:`figure_edit_task`.
+
+
+   .. _figure_edit_volunteers:
+
+.. figure:: ../images/edit_volunteer.png
+   :alt: emtpy
+   :align: center
+
+   Edition (clic droit) de la table des volontaires
+
+
+   .. _figure_edit_task:
+
+.. figure:: ../images/edit_task.png
+   :alt: emtpy
+   :align: center
+
+   Edition (clic droit) de la table des tâches
+
+
+Importation fichier CSV
+-----------------------
+
+
